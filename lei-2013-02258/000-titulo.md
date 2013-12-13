@@ -1,0 +1,1 @@
+# LEI N.º 2.258, de 27 de novembro de 2013 EMENTA: Dispõe sobre a Avaliação Periódica dos Prédios Escolares da Rede Municipal de Ensino da Cidade de Itabuna e dá outras providências O PREFEITO MUNICIPAL DE ITABUNA, faço saber que a Câmara de Vereadores aprova e eu sanciono a presente Lei:
