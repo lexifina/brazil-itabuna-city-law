@@ -1,0 +1,2 @@
+# L E I Nº 2.267, de 28 de fevereiro de 2014 EMENTA: Altera a Lei Municipal nº 2.114, de 1º de janeiro de 2009 - Estrutura Administrativa do Município de Itabuna na parte e forma que indica; extingue a Agência de Regulação, Controle e Fiscalização dos Serviços Públicos do Município de Itabuna - ARSEPI e, dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA faço saber que a Câmara de Vereadores aprova e eu sanciono a presente Lei:
