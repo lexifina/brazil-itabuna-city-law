@@ -1,0 +1,2 @@
+# L E I Nº. 2.273, de 25 de junho de 2014 EMENTA: Dispõe sobre a organização do Sistema Municipal de Defesa do Consumidor - SMDC - instituição do Conselho Municipal de Proteção e Defesa do Consumidor - CONDECON, e do Fundo Municipal de Proteção e Defesa do Consumidor - FMDC - e, dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA, faço saber que a Câmara de Vereadores aprova e eu sanciono a seguinte Lei:
