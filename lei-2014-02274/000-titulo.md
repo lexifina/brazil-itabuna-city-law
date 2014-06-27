@@ -1,0 +1,2 @@
+# L E I Nº. 2.274, de 25 de junho de 2014 EMENTA: Institui e regula, no âmbito do Município de Itabuna, o Sistema Municipal de Cultura, estabelecendo seus princípios, objetivos, estrutura, organização, gestão, inter-relações entre os seus componentes, recursos humanos, financiamento e o Conselho Municipal de políticas Culturais, além de revogar a Lei Municipal nº. 1.577 de 08 de junho de 1992, e, dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA, faço saber que a Câmara de Vereadores aprova e eu sanciono a seguinte Lei:
