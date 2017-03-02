@@ -1,0 +1,2 @@
+# L E I Nº. 2.385, de 02 de março de 2017 Altera a redação original constante do § 1º, art. 2º da Lei Municipal nº 1.774, de 25 de setembro de 1998, alterada pelas Leis ns.º 2.255 e 2.326, datadas de 20 de novembro de 2013 e 26 de agosto de 2015, respectivamente, na forma que indica e, dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA faço saber que a Câmara de Vereadores aprova e eu sanciono a presente Lei:
