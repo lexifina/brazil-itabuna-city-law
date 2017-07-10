@@ -1,0 +1,2 @@
+# L E I Nº 2.399, de 10 de julho de 2017 Cria, no âmbito do Município de Itabuna, a Agência de Regulação, Controle e Fiscalização dos Serviços Públicos-ARSEPI, inclusive aqueles organizados sob a forma de sistema, os contratos da saúde celebrados com pessoa jurídica para prestação de serviços hospitalares, médicos, exames e testes laboratoriais e por imagem, na forma que indica, e, dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA faço saber que a Câmara de Vereadores aprova e eu sanciono a seguinte Lei:
