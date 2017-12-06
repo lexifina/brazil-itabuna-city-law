@@ -1,0 +1,2 @@
+# L E I Nº 2.413, de 06 de dezembro de 2017 Autoriza o Chefe do Executivo, pelo Município de Itabuna e representando os órgãos da Administração Municipal Descentralizada - Autarquias, Fundações, Sociedades de Economia Mista e Empresas Públicas, a firmar Contrato de Parcelamento/Reparcelamento de Dívida, para com o Fundo de Garantia por Tempo de Serviço - FGTS, e dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA faço saber que a Câmara de Vereadores aprova e eu sanciono a seguinte Lei:
