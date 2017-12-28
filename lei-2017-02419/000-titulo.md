@@ -1,0 +1,2 @@
+# L E I Nº 2.419, de 28 de dezembro de 2017 Autoriza o Município de Itabuna a participar do Consórcio Público Interfederativo de Saúde, subscrevendo por conseguinte o Protocolo de Intenções, a ser firmado com o Estado da Bahia, através da Secretaria de Saúde do Estado da Bahia e outros Municípios Baianos e, dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA faço saber que a Câmara de Vereadores aprova e eu sanciono a seguinte Lei:
