@@ -1,0 +1,2 @@
+# L E I Nº. 2.735, de 08 de outubro de 2025 EMENTA: Autoriza o Poder Executivo Municipal a doar um imóvel pertencente ao Patrimônio Público Municipal ao Instituto Federal de Educação, Ciência e Tecnologia da Bahia - IFBA, bem como, alterar o Decreto nº 16.562 de 28/08/2025, para revogar a afetação da utilidade pública sobre o imóvel a ser doado e, dá outras providências.
+O PREFEITO MUNICIPAL DE ITABUNA, faço saber que a Câmara de Vereadores aprova e eu sanciono a seguinte Lei:
