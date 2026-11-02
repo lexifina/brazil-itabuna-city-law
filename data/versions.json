@@ -1,0 +1,495 @@
+{
+ "country": "BR-BA-ITABUNA",
+ "acts": [
+  {
+   "slug": "lei-2026-02759",
+   "short": "Lei 2759/2026",
+   "title": "Lei nº 2.759, de 30 de março de 2026",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/1013",
+   "versions": [
+    {
+     "from": "2026-03-31",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2026/1013/lei_2759.pdf",
+     "sha256": "bfa0b74ad8b0337c4aa5cb012e913c71fcd3779a158d78810412c09216166c4d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02758",
+   "short": "Lei 2758/2026",
+   "title": "Lei nº 2.758, de 30 de março de 2026",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/1012",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 9,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2026/1012/lei_2758.pdf",
+     "sha256": "f6aa27eef18192a933d1881d5beb2c035b411690cd1fce9501b93b737930118a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02757",
+   "short": "Lei 2757/2026",
+   "title": "Lei nº 2.757, de 30 de março de 2026",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/1011",
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "units": 8,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2026/1011/lei_2757.pdf",
+     "sha256": "0b277ab76f2416b082a6f9d534c087385f0aa1fe681597f5df9979c4a856938e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-02753",
+   "short": "Lei 2753/2026",
+   "title": "Lei nº 2.753, de 12 de janeiro de 2026",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/1007",
+   "versions": [
+    {
+     "from": "2026-01-16",
+     "units": 10,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2026/1007/lei_2753.pdf",
+     "sha256": "02f11baa5eb85d7a1cc3e80aaca1bda65e32b85d0e682504b88c5213dc83866b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02739",
+   "short": "Lei 2739/2025",
+   "title": "Lei nº 2.739, de 7 de novembro de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/993",
+   "versions": [
+    {
+     "from": "2025-11-07",
+     "units": 13,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/993/lei_2739.pdf",
+     "sha256": "17e7f0e5d747be4f16cc69e252cee6a73ec683dd5983c0106876cfa072f46783"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02735",
+   "short": "Lei 2735/2025",
+   "title": "Lei nº 2.735, de 8 de outubro de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/989",
+   "versions": [
+    {
+     "from": "2025-10-08",
+     "units": 9,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/989/lei_2735.pdf",
+     "sha256": "a8c07ad721f96ea0242037ca8f5d46eefe8944caa92df095b5864a3def5deb26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02734",
+   "short": "Lei 2734/2025",
+   "title": "Lei nº 2.734, de 24 de setembro de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/988",
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/988/lei_2734.pdf",
+     "sha256": "55677e5ac32d7e12f7c0fc8c4bd89bf3ad5f2b6db6194cba5a68fe90a2b56a8f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02733",
+   "short": "Lei 2733/2025",
+   "title": "Lei nº 2.733, de 23 de setembro de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/987",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/987/lei_2733.pdf",
+     "sha256": "a750051d174322f25c62878636ffe993daf64f45d711e505bf4e5e2c957c4f26"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02732",
+   "short": "Lei 2732/2025",
+   "title": "Lei nº 2.732, de 23 de setembro de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/986",
+   "versions": [
+    {
+     "from": "2025-09-23",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/986/lei_2732.pdf",
+     "sha256": "e3560c5dc07222e6787380cc8b68e77b8e928ad990e7aae6682874bef3943340"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02731",
+   "short": "Lei 2731/2025",
+   "title": "Lei nº 2.731, de 10 de setembro de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/985",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 3,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/985/lei_2731.pdf",
+     "sha256": "cb6aaa6e9c4755e31a07fb2dab58b5df37aa4a1f6e8ed22dc367b902dc178702"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02730",
+   "short": "Lei 2730/2025",
+   "title": "Lei nº 2.730, de 10 de setembro de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/984",
+   "versions": [
+    {
+     "from": "2025-09-22",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/984/lei_2730.pdf",
+     "sha256": "8e3ab763f0b358df37208f8d73e9b4af005111f8e480ab807efb8d3b843211a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-02716",
+   "short": "Lei 2716/2025",
+   "title": "Lei nº 2.716, de 9 de junho de 2025",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/972",
+   "versions": [
+    {
+     "from": "2025-06-09",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2025/972/lei_2716-2025.pdf",
+     "sha256": "a322ae1728c09d651b4d4a0e0e65507217ddc7985c81f95771894b36318f1a35"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-02627",
+   "short": "Lei 2627/2023",
+   "title": "Lei nº 2.627, de 12 de junho de 2023",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/484",
+   "versions": [
+    {
+     "from": "2023-06-12",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2023/484/lei_municipal_2627-2023_-_denomina_praca_mario_barreto_dos_santos_localizada_no_bairro_novo_horizonte.pdf",
+     "sha256": "c47db1b4917fc7837416b3a406394e99b780fc79b79015dc0c33ce323807d04a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-02622",
+   "short": "Lei 2622/2023",
+   "title": "Lei nº 2.622, de 24 de maio de 2023",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/479",
+   "versions": [
+    {
+     "from": "2023-05-24",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2023/479/lei_municipal_2622-2023_-_dispoe_sobre_a_instituicao_do_dia_municipal_do_conselheiro_escolar.pdf",
+     "sha256": "afca0e260fa9305e855de8bbc80bcdbe0ac7dc68ab3d7c2ac4ff15dc5c586b87"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02419",
+   "short": "Lei 2419/2017",
+   "title": "Lei nº 2.419, de 28 de dezembro de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/221",
+   "versions": [
+    {
+     "from": "2017-12-28",
+     "units": 11,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/221/2.419-paginas-excluidas.pdf",
+     "sha256": "d47afc8a7b15a1320d30c228d70c601ff15b44d5f7795bd6f30a50240acf32a9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02413",
+   "short": "Lei 2413/2017",
+   "title": "Lei nº 2.413, de 6 de dezembro de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/222",
+   "versions": [
+    {
+     "from": "2017-12-06",
+     "units": 10,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/222/2.413-paginas-excluidas.pdf",
+     "sha256": "8bf9adcc393d12c72f65ed3f3c287c165ef6d3cd38d418631181c261e20fbedb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02407",
+   "short": "Lei 2407/2017",
+   "title": "Lei nº 2.407, de 31 de agosto de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/234",
+   "versions": [
+    {
+     "from": "2017-08-31",
+     "units": 16,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/234/lei__2.407.pdf",
+     "sha256": "415589fddd8c47dfbe40a81fe51cf45f6f54c077311049ac70eb38e5cc88bb9d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02400",
+   "short": "Lei 2400/2017",
+   "title": "Lei nº 2.400, de 10 de julho de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/236",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 14,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/236/lei_2.400.pdf",
+     "sha256": "57feea88e16611f9962e35c550a40908451011eca28ab26cc2b0274895586df8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02399",
+   "short": "Lei 2399/2017",
+   "title": "Lei nº 2.399, de 10 de julho de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/235",
+   "versions": [
+    {
+     "from": "2017-07-10",
+     "units": 58,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/235/lei_2.399.pdf",
+     "sha256": "0e3756ac00fc886627dab4c14a2880869cd83a822d2a8aa93249919fbf79c056"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02385",
+   "short": "Lei 2385/2017",
+   "title": "Lei nº 2.385, de 2 de março de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/254",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/254/2.385.pdf",
+     "sha256": "7c7e3d1ef8bd85a9bee28f0ffd819d4db56a0f9baa752464db28ae49338bfcac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02384",
+   "short": "Lei 2384/2017",
+   "title": "Lei nº 2.384, de 2 de março de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/253",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/253/2.384.pdf",
+     "sha256": "e0dba5056028797acddddb9b8589593f5d701443b0115c9b623f570a7d5af019"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02383",
+   "short": "Lei 2383/2017",
+   "title": "Lei nº 2.383, de 2 de março de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/252",
+   "versions": [
+    {
+     "from": "2017-03-02",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/252/2.383.pdf",
+     "sha256": "a21beb70da6f925818ca77d9820395215431a2ab9e28374f1b0da7a35033a8d7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2017-02377",
+   "short": "Lei 2377/2017",
+   "title": "Lei nº 2.377, de 19 de janeiro de 2017",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/246",
+   "versions": [
+    {
+     "from": "2017-01-19",
+     "units": 10,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2017/246/2.377.pdf",
+     "sha256": "723615dbf2243ec4878b8c633aba08c5356613ca0aa838339e7c284513aefb71"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02359",
+   "short": "Lei 2359/2016",
+   "title": "Lei nº 2.359, de 25 de abril de 2016",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/56",
+   "versions": [
+    {
+     "from": "2016-04-27",
+     "units": 20,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2016/56/lei_n_2.359_-_2016.pdf",
+     "sha256": "7f02b68f45a3d57570d17bc0eaee03bd077158b27f6a107116a4b9727bdb8ef0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02357",
+   "short": "Lei 2357/2016",
+   "title": "Lei nº 2.357, de 20 de abril de 2016",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/54",
+   "versions": [
+    {
+     "from": "2016-04-25",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2016/54/lei_n_2.357_-_2016.pdf",
+     "sha256": "5a4f5c64f2c670452e233f3f84241102d4945d20da9e2c3cf9fbc423bde6d726"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02355",
+   "short": "Lei 2355/2016",
+   "title": "Lei nº 2.355, de 9 de março de 2016",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/52",
+   "versions": [
+    {
+     "from": "2016-03-14",
+     "units": 37,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2016/52/lei_n_2.355_-_2016.pdf",
+     "sha256": "549b2be59695a9d026585730d97a96da50fc38e0696899fb1616eb245195db33"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02354",
+   "short": "Lei 2354/2016",
+   "title": "Lei nº 2.354, de 9 de março de 2016",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/51",
+   "versions": [
+    {
+     "from": "2016-03-18",
+     "units": 10,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2016/51/lei_n_2.354_-_2016.pdf",
+     "sha256": "fd3366d6f3dd78a149e7a1e24f260eed11e08df53e21a977e15eca7e38d837c7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2016-02353",
+   "short": "Lei 2353/2016",
+   "title": "Lei nº 2.353, de 9 de março de 2016",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/50",
+   "versions": [
+    {
+     "from": "2016-03-18",
+     "units": 15,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2016/50/lei_n_2.353_-_2016.pdf",
+     "sha256": "1783a65ed017e3c3a6d249cffb3da1fdf0697e9015bd3ea5924db17bfcb29872"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02341",
+   "short": "Lei 2341/2015",
+   "title": "Lei nº 2.341, de 8 de dezembro de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/102",
+   "versions": [
+    {
+     "from": "2016-02-11",
+     "units": 14,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/102/lei_n_2.341_-_2015.pdf",
+     "sha256": "a1c09f5f5a8d8167d52ab7001a7b76843d0fd5171ed9d3f58f4cc4277b9ff836"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02340",
+   "short": "Lei 2340/2015",
+   "title": "Lei nº 2.340, de 27 de novembro de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/103",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/103/lei_n_2.340_-_2015.pdf",
+     "sha256": "279f18456cd28ba5ebedaf5c4ed791d2bdecf76653401359c5309af764c2731e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02337",
+   "short": "Lei 2337/2015",
+   "title": "Lei nº 2.337, de 24 de novembro de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/99",
+   "versions": [
+    {
+     "from": "2015-12-01",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/99/lei_n_2.337_-_2015.pdf",
+     "sha256": "a233a48ebcc95715803c700866510cc47854e10c1bc8a4c6211711b139b5510f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02334",
+   "short": "Lei 2334/2015",
+   "title": "Lei nº 2.334, de 6 de novembro de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/104",
+   "versions": [
+    {
+     "from": "2015-12-30",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/104/lei_n_2.334_-_2015.pdf",
+     "sha256": "ea1056a31af0a17d5fcba365d71551735338ad931a855839f5d0c08c6b16b8d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02324",
+   "short": "Lei 2324/2015",
+   "title": "Lei nº 2.324, de 30 de junho de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/87",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/87/lei_n_2.324_-_2015.pdf",
+     "sha256": "b31c7723f607d2d474aff3b23cc20e56e4bd20963cc2a845121aea98f71edd66"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02323",
+   "short": "Lei 2323/2015",
+   "title": "Lei nº 2.323, de 30 de junho de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/86",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/86/lei_n_2.323_-_2015.pdf",
+     "sha256": "3f982440778a29fa7f1029ab9e480f89c241fc898ccd4953d46ac12027dcb91d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02322",
+   "short": "Lei 2322/2015",
+   "title": "Lei nº 2.322, de 30 de junho de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/85",
+   "versions": [
+    {
+     "from": "2015-07-07",
+     "units": 10,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/85/lei_n_2.322_-_2015.pdf",
+     "sha256": "a027666a056dc0b472e90c762ca228f19dd6e2c95fbaf936f058a633eb6bdce4"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,9 @@
+{
+  "path": "br-ba-itabuna",
+  "code": "BR-BA-ITABUNA",
+  "name": "Itabuna (city)",
+  "level": "municipality",
+  "parent": "br-ba",
+  "repo": "https://github.com/lexifina/brazil-itabuna-city-law",
+  "build": "built: the law of Itabuna from the Câmara Municipal's SAPL"
+}
