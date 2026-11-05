@@ -490,6 +490,482 @@
      "sha256": "a027666a056dc0b472e90c762ca228f19dd6e2c95fbaf936f058a633eb6bdce4"
     }
    ]
+  },
+  {
+   "slug": "lei-2015-02311",
+   "short": "Lei 2311/2015",
+   "title": "Lei nº 2.311, de 5 de maio de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/75",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/75/lei_n_2.311_-_2015.pdf",
+     "sha256": "f1e010dbf24c38463d51c0da9d47c4f45d13731fd1519e9880e6b7819f2320a2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2015-02310",
+   "short": "Lei 2310/2015",
+   "title": "Lei nº 2.310, de 5 de maio de 2015",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/74",
+   "versions": [
+    {
+     "from": "2015-05-05",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2015/74/lei_n_2.310_-_2015.pdf",
+     "sha256": "a5610441ec5d424e2ec8054304a95b431332abd4d46fbc2f0b616971d348d083"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02299",
+   "short": "Lei 2299/2014",
+   "title": "Lei nº 2.299, de 19 de dezembro de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/154",
+   "versions": [
+    {
+     "from": "2014-12-19",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/154/lei_n_2.299_-_2014.pdf",
+     "sha256": "17119d8b61f103c5344e2fcca68e4769ed630814cea44bfc2b08850dc08e2dfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02295",
+   "short": "Lei 2295/2014",
+   "title": "Lei nº 2.295, de 6 de novembro de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/150",
+   "versions": [
+    {
+     "from": "2014-11-10",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/150/lei_n_2.295_-2014.pdf",
+     "sha256": "06a2669111a2fe0487a62117370a7c759d200bcd24c7c8911756e12d94f9b441"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02294",
+   "short": "Lei 2294/2014",
+   "title": "Lei nº 2.294, de 6 de novembro de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/149",
+   "versions": [
+    {
+     "from": "2014-11-10",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/149/lei_n_2.294_-_2014.pdf",
+     "sha256": "9bfbf56c359cd5e27fd306f09897b4585d1929168ae9e6f6fe25aa5f80ec2d3a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02280",
+   "short": "Lei 2280/2014",
+   "title": "Lei nº 2.280, de 6 de agosto de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/137",
+   "versions": [
+    {
+     "from": "2014-08-11",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/137/lei_n_2.280_-_2014.pdf",
+     "sha256": "278e58050de9f27ce5c25d8168e7022315b25a7c3a0614c47c4cf0debfb8376f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02275",
+   "short": "Lei 2275/2014",
+   "title": "Lei nº 2.275, de 25 de junho de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/135",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 8,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/135/lei_n_2.275_-_2014.pdf",
+     "sha256": "08df7657ec26accb31d7219c41d33547ae3e8b1bca8dfe778b379eb7ced8f650"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02274",
+   "short": "Lei 2274/2014",
+   "title": "Lei nº 2.274, de 25 de junho de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/133",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 78,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/133/lei_n_2.274_-_2014.pdf",
+     "sha256": "4bc61f7373853a605b7eafa06efd482c398f23a26b4bb778df070ba4ebfb6e86"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02273",
+   "short": "Lei 2273/2014",
+   "title": "Lei nº 2.273, de 25 de junho de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/132",
+   "versions": [
+    {
+     "from": "2014-06-27",
+     "units": 17,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/132/lei_n_2.273_-_2014.pdf",
+     "sha256": "e86239264bda4c328409f2ca36eac4e06e507e4b36abe895548b563ba88470c1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02267",
+   "short": "Lei 2267/2014",
+   "title": "Lei nº 2.267, de 28 de fevereiro de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/129",
+   "versions": [
+    {
+     "from": "2014-02-28",
+     "units": 12,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/129/lei_n_2.267_-_2014.pdf",
+     "sha256": "faa9bd486007d8365a9ede21289ab3c70115bc7d3ed4ab4cda83839280bb854f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2014-02266",
+   "short": "Lei 2266/2014",
+   "title": "Lei nº 2.266, de 13 de janeiro de 2014",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/128",
+   "versions": [
+    {
+     "from": "2014-03-12",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2014/128/lei_n_2.266_-_2014.pdf",
+     "sha256": "42c5e85fe451261ea3c95e015cf200d2b47f4a9c808c8bc5ccfc9b8f46d3781b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02262",
+   "short": "Lei 2262/2013",
+   "title": "Lei nº 2.262, de 23 de dezembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/41",
+   "versions": [
+    {
+     "from": "2014-01-16",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/41/lei_n_2.262_-_2013.pdf",
+     "sha256": "b0a9ddac7962b101e6fa788a984da079df7d8c037e560463e282b336cbd591a7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02261",
+   "short": "Lei 2261/2013",
+   "title": "Lei nº 2.261, de 23 de dezembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/40",
+   "versions": [
+    {
+     "from": "2013-12-27",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/40/lei_n_2.261_-_2015.pdf",
+     "sha256": "60bb93ee8eaf5d2250386b0e5783dd92029c0d14a3533717975124386a08c8f6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02258",
+   "short": "Lei 2258/2013",
+   "title": "Lei nº 2.258, de 27 de novembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/37",
+   "versions": [
+    {
+     "from": "2013-12-13",
+     "units": 8,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/37/lei_n_2.258_-_2013.pdf",
+     "sha256": "2a36d46c41538c1de954360a6ea30be48a23aab81e82feaa93b02f7387eaa2d9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02255",
+   "short": "Lei 2255/2013",
+   "title": "Lei nº 2.255, de 20 de novembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/34",
+   "versions": [
+    {
+     "from": "2013-11-22",
+     "units": 5,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/34/lei_n_2.255_-_2013.pdf",
+     "sha256": "aa4992a39416cb4377b653aa8cbbaed626346a611c1714c7bc1b07df6fedf789"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02254",
+   "short": "Lei 2254/2013",
+   "title": "Lei nº 2.254, de 20 de novembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/33",
+   "versions": [
+    {
+     "from": "2013-11-22",
+     "units": 15,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/33/lei_n_2.254_-_2013.pdf",
+     "sha256": "a07a2adae460faa6f70eacad24de95a2185da671efa501d7dba03dd1f6c5cc52"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02252",
+   "short": "Lei 2252/2013",
+   "title": "Lei nº 2.252, de 13 de novembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/10",
+   "versions": [
+    {
+     "from": "2013-11-14",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/10/lei_n__2.252_-_2013.pdf",
+     "sha256": "09ef28563f58769c51795a78ace6ed276a8caf7d6240e39dffb2cfcf2b87ad8e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02251",
+   "short": "Lei 2251/2013",
+   "title": "Lei nº 2.251, de 13 de novembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/32",
+   "versions": [
+    {
+     "from": "2013-11-22",
+     "units": 11,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/32/lei_n_2.251_-_2013.pdf",
+     "sha256": "f9050979ef7add1a9c8205112fd0413d09ab10ae7101654423b4b1e0cdd171e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02249",
+   "short": "Lei 2249/2013",
+   "title": "Lei nº 2.249, de 14 de outubro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/30",
+   "versions": [
+    {
+     "from": "2013-10-18",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/30/lei_n_2.249_-_2013.pdf",
+     "sha256": "4505223ac7ad450469776c28db293ad0db231f64b285e7b71c3cd0f11a70c603"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02248",
+   "short": "Lei 2248/2013",
+   "title": "Lei nº 2.248, de 14 de outubro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/29",
+   "versions": [
+    {
+     "from": "2013-10-31",
+     "units": 33,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/29/lei_n_2.248_-_2013.pdf",
+     "sha256": "ae979fd3d963b419213a05692a6c3e9d6f63c4de9eeb5d9ce64b7d3d17ba9a0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02247",
+   "short": "Lei 2247/2013",
+   "title": "Lei nº 2.247, de 4 de outubro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/28",
+   "versions": [
+    {
+     "from": "2013-11-01",
+     "units": 14,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/28/lei_n_2.247_-_2013.pdf",
+     "sha256": "303902b000b907f572a635c7403697d97e147df1a2b06a6be4e362814da201f1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02245",
+   "short": "Lei 2245/2013",
+   "title": "Lei nº 2.245, de 4 de outubro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/26",
+   "versions": [
+    {
+     "from": "2013-10-14",
+     "units": 8,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/26/lei_n_2.245_-_2013.pdf",
+     "sha256": "8b02d6b471b065222ba67189b9cd40ccf187a586a2f9efebcc71dd4f2912b606"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02244",
+   "short": "Lei 2244/2013",
+   "title": "Lei nº 2.244, de 4 de outubro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/25",
+   "versions": [
+    {
+     "from": "2013-10-14",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/25/lei_n_2.244_-_2013.pdf",
+     "sha256": "758d2d7d582c27eb75fd26dee0bf4c041495810f25182b6047535156257193bc"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02243",
+   "short": "Lei 2243/2013",
+   "title": "Lei nº 2.243, de 4 de outubro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/24",
+   "versions": [
+    {
+     "from": "2013-10-14",
+     "units": 7,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/24/lei_n_2.243_-_2013.pdf",
+     "sha256": "c1131a89666460f16a63ef582cd3510086e28ec1cea2bd2dfb8e4e6e0e34a9cf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02242",
+   "short": "Lei 2242/2013",
+   "title": "Lei nº 2.242, de 30 de setembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/8",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 5,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/8/lei__n_2.242_-_2013.pdf",
+     "sha256": "b00eb5f05e70652aaafc54b3ffa72bd60acf5e855b43061a9f724c9a70a8a663"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02241",
+   "short": "Lei 2241/2013",
+   "title": "Lei nº 2.241, de 30 de setembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/7",
+   "versions": [
+    {
+     "from": "2013-10-02",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/7/lei__n_2.241_-_2013.pdf",
+     "sha256": "34344a50ee0653791003bcedb935f5114ae33c7440b710309b1f0807a489a4e5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02240",
+   "short": "Lei 2240/2013",
+   "title": "Lei nº 2.240, de 19 de setembro de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/23",
+   "versions": [
+    {
+     "from": "2013-09-26",
+     "units": 27,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/23/lei_n_2.240_-_2013.pdf",
+     "sha256": "8d09a2c857289443517768708aacf1dfdff2a13870ada3a9478f1dded676fcd9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02235",
+   "short": "Lei 2235/2013",
+   "title": "Lei nº 2.235, de 29 de julho de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/20",
+   "versions": [
+    {
+     "from": "2013-08-05",
+     "units": 8,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/20/lei_n_2.235_-_2013.pdf",
+     "sha256": "fa13894260976f5262b431bc4313ef2f341a334105502ebc1ebc6591d765483f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02234",
+   "short": "Lei 2234/2013",
+   "title": "Lei nº 2.234, de 29 de julho de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/19",
+   "versions": [
+    {
+     "from": "2013-08-05",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/19/lei_n_2.234_-_2013.pdf",
+     "sha256": "5d63aafe6b20fc2c769478a7d345a186b226745f9181c9911eaf95310ba0744b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02233",
+   "short": "Lei 2233/2013",
+   "title": "Lei nº 2.233, de 18 de junho de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/45",
+   "versions": [
+    {
+     "from": "2013-08-23",
+     "units": 44,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/45/lei_n2.233_-_2013.pdf",
+     "sha256": "9b2e50bdea13404da77b59f2d2bb6e2c87c81b5dee0209679c0a869f6cb6a6c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02231",
+   "short": "Lei 2231/2013",
+   "title": "Lei nº 2.231, de 14 de maio de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/17",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 6,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/17/lei_n_2.231_-_2013.pdf",
+     "sha256": "1cc4bca575f42a8ec226f15e08a39c1bdf5fe19ad75bed856716e234cb02e573"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02230",
+   "short": "Lei 2230/2013",
+   "title": "Lei nº 2.230, de 14 de maio de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/16",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 3,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/16/lei_n_2.230_-_2013.pdf",
+     "sha256": "725de8a8ea145e7b9c0d17694db5bbc36075e7d8bf24022d05f10c858dee6798"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02229",
+   "short": "Lei 2229/2013",
+   "title": "Lei nº 2.229, de 14 de maio de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/15",
+   "versions": [
+    {
+     "from": "2013-05-17",
+     "units": 12,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/15/lei_n_2.229_-_2013.pdf",
+     "sha256": "26bc4909133dd9410c91410b7ba2fd1f5f6cba6944e4dbb456f4465ce90735c8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2013-02226",
+   "short": "Lei 2226/2013",
+   "title": "Lei nº 2.226, de 19 de abril de 2013",
+   "url": "https://sapl.itabuna.ba.leg.br/norma/14",
+   "versions": [
+    {
+     "from": "2013-04-26",
+     "units": 4,
+     "source_url": "https://sapl.itabuna.ba.leg.br/media/sapl/public/normajuridica/2013/14/lei_n.o_2.226_-_2013.pdf",
+     "sha256": "ca42f7776eb5ba5aef391556ac2d59f16b3d1de5bb8df74df7548ec817974499"
+    }
+   ]
   }
  ]
 }
